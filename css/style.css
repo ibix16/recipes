@@ -1,0 +1,32 @@
+*{
+    background-color: antiquewhite;
+}
+
+.heading{
+    text-align: center;
+    font-size: 50px;
+}
+
+.homeIMG{
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.listHeading{
+    text-align: center;
+    font-size: 30px;
+}
+
+.list{
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+ul li{
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 20px;
+}

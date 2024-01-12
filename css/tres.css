@@ -1,0 +1,51 @@
+*{
+    background-color: antiquewhite;
+}
+
+.heading{
+    text-align: center;
+    font-size: 50px;
+}
+
+.pic{
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.describe{
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.supplies{
+    text-align: center;
+    font-size: 40px;
+}
+
+ul {
+    padding: 0;
+    text-align: center;
+  }
+  
+li {
+   text-align: center;
+    margin: 10px 0;
+    font-size: 25px; 
+}
+
+.steps{
+    text-align: center;
+    font-size: 40px;
+}
+
+ol{
+    padding: 0;
+    text-align: center;
+}
